@@ -1,0 +1,534 @@
+2026-03-10 11:41:52,372 - app - INFO - GET /docs - 200 - 0.001s
+2026-03-10 11:41:53,393 - app - INFO - GET /openapi.json - 200 - 0.040s
+2026-03-10 11:43:11,526 - app - INFO - GET /redoc - 200 - 0.001s
+2026-03-10 11:43:12,081 - app - INFO - GET /openapi.json - 200 - 0.001s
+2026-03-10 12:50:47,845 - app - INFO - Starting benchmark
+2026-03-10 12:50:49,784 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 12:50:49,786 - app - INFO - GET /benchmark - 200 - 1.944s
+2026-03-10 12:51:17,532 - app - INFO - Starting benchmark
+2026-03-10 12:51:19,730 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 12:51:19,732 - app - INFO - GET /benchmark - 200 - 2.201s
+2026-03-10 12:51:47,822 - app - INFO - Starting benchmark
+2026-03-10 12:51:50,038 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 12:51:50,040 - app - INFO - GET /benchmark - 200 - 2.218s
+2026-03-10 12:52:17,529 - app - INFO - Starting benchmark
+2026-03-10 12:52:19,503 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 12:52:19,505 - app - INFO - GET /benchmark - 200 - 1.977s
+2026-03-10 12:53:14,315 - app - INFO - Starting benchmark
+2026-03-10 12:53:16,590 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 12:53:16,592 - app - INFO - GET /benchmark - 200 - 2.278s
+2026-03-10 12:53:43,997 - app - INFO - Starting benchmark
+2026-03-10 12:53:46,454 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 12:53:46,456 - app - INFO - GET /benchmark - 200 - 2.459s
+2026-03-10 12:54:14,311 - app - INFO - Starting benchmark
+2026-03-10 12:54:16,501 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 12:54:16,503 - app - INFO - GET /benchmark - 200 - 2.193s
+2026-03-10 12:54:44,013 - app - INFO - Starting benchmark
+2026-03-10 12:54:46,045 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 12:54:46,047 - app - INFO - GET /benchmark - 200 - 2.035s
+2026-03-10 12:55:14,318 - app - INFO - Starting benchmark
+2026-03-10 12:55:16,236 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 12:55:16,238 - app - INFO - GET /benchmark - 200 - 1.921s
+2026-03-10 12:55:44,006 - app - INFO - Starting benchmark
+2026-03-10 12:55:46,128 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 12:55:46,129 - app - INFO - GET /benchmark - 200 - 2.124s
+2026-03-10 12:56:14,312 - app - INFO - Starting benchmark
+2026-03-10 12:56:16,772 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 12:56:16,774 - app - INFO - GET /benchmark - 200 - 2.463s
+2026-03-10 12:56:43,997 - app - INFO - Starting benchmark
+2026-03-10 12:56:46,233 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 12:56:46,235 - app - INFO - GET /benchmark - 200 - 2.238s
+2026-03-10 12:57:01,195 - app - INFO - Starting benchmark
+2026-03-10 12:57:03,218 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 12:57:03,220 - app - INFO - GET /benchmark - 200 - 2.025s
+2026-03-10 12:57:14,791 - app - INFO - Starting benchmark
+2026-03-10 12:57:16,937 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 12:57:16,939 - app - INFO - GET /benchmark - 200 - 2.149s
+2026-03-10 12:57:32,108 - app - INFO - Starting benchmark
+2026-03-10 12:57:34,336 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 12:57:34,338 - app - INFO - GET /benchmark - 200 - 2.230s
+2026-03-10 12:57:44,806 - app - INFO - Starting benchmark
+2026-03-10 12:57:46,741 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 12:57:46,742 - app - INFO - GET /benchmark - 200 - 1.937s
+2026-03-10 12:58:02,100 - app - INFO - Starting benchmark
+2026-03-10 12:58:04,304 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 12:58:04,306 - app - INFO - GET /benchmark - 200 - 2.206s
+2026-03-10 12:58:31,797 - app - INFO - Starting benchmark
+2026-03-10 12:58:34,170 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 12:58:34,172 - app - INFO - GET /benchmark - 200 - 2.375s
+2026-03-10 12:58:46,099 - app - INFO - Starting benchmark
+2026-03-10 12:58:48,505 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 12:58:48,507 - app - INFO - GET /benchmark - 200 - 2.409s
+2026-03-10 12:59:01,787 - app - INFO - Starting benchmark
+2026-03-10 12:59:04,178 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 12:59:04,180 - app - INFO - GET /benchmark - 200 - 2.393s
+2026-03-10 12:59:32,100 - app - INFO - Starting benchmark
+2026-03-10 12:59:34,432 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 12:59:34,434 - app - INFO - GET /benchmark - 200 - 2.335s
+2026-03-10 12:59:46,795 - app - INFO - Starting benchmark
+2026-03-10 12:59:49,153 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 12:59:49,155 - app - INFO - GET /benchmark - 200 - 2.360s
+2026-03-10 13:00:02,106 - app - INFO - Starting benchmark
+2026-03-10 13:00:04,478 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:00:04,480 - app - INFO - GET /benchmark - 200 - 2.375s
+2026-03-10 13:00:47,804 - app - INFO - Starting benchmark
+2026-03-10 13:00:50,914 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:00:50,915 - app - INFO - GET /benchmark - 200 - 3.112s
+2026-03-10 13:00:57,102 - app - INFO - Starting benchmark
+2026-03-10 13:00:59,492 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:00:59,494 - app - INFO - GET /benchmark - 200 - 2.393s
+2026-03-10 13:01:48,791 - app - INFO - Starting benchmark
+2026-03-10 13:01:51,379 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:01:51,380 - app - INFO - GET /benchmark - 200 - 2.590s
+2026-03-10 13:01:57,111 - app - INFO - Starting benchmark
+2026-03-10 13:01:59,499 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:01:59,501 - app - INFO - GET /benchmark - 200 - 2.390s
+2026-03-10 13:02:50,093 - app - INFO - Starting benchmark
+2026-03-10 13:02:52,414 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:02:52,416 - app - INFO - GET /benchmark - 200 - 2.323s
+2026-03-10 13:02:56,783 - app - INFO - Starting benchmark
+2026-03-10 13:02:59,198 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:02:59,199 - app - INFO - GET /benchmark - 200 - 2.417s
+2026-03-10 13:03:51,128 - app - INFO - Starting benchmark
+2026-03-10 13:03:54,124 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:03:54,126 - app - INFO - GET /benchmark - 200 - 2.998s
+2026-03-10 13:03:56,787 - app - INFO - Starting benchmark
+2026-03-10 13:03:59,733 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:03:59,734 - app - INFO - GET /benchmark - 200 - 2.947s
+2026-03-10 13:04:52,125 - app - INFO - Starting benchmark
+2026-03-10 13:04:54,465 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:04:54,467 - app - INFO - GET /benchmark - 200 - 2.343s
+2026-03-10 13:04:56,785 - app - INFO - Starting benchmark
+2026-03-10 13:04:59,222 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:04:59,224 - app - INFO - GET /benchmark - 200 - 2.439s
+2026-03-10 13:05:53,114 - app - INFO - Starting benchmark
+2026-03-10 13:05:56,132 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:05:56,133 - app - INFO - GET /benchmark - 200 - 3.020s
+2026-03-10 13:05:56,782 - app - INFO - Starting benchmark
+2026-03-10 13:05:59,521 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:05:59,523 - app - INFO - GET /benchmark - 200 - 2.741s
+2026-03-10 13:06:54,104 - app - INFO - Starting benchmark
+2026-03-10 13:06:56,084 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:06:56,086 - app - INFO - GET /benchmark - 200 - 1.982s
+2026-03-10 13:06:56,794 - app - INFO - Starting benchmark
+2026-03-10 13:06:59,175 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:06:59,177 - app - INFO - GET /benchmark - 200 - 2.384s
+2026-03-10 13:07:55,097 - app - INFO - Starting benchmark
+2026-03-10 13:07:57,470 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:07:57,472 - app - INFO - GET /benchmark - 200 - 2.375s
+2026-03-10 13:07:57,476 - app - INFO - Starting benchmark
+2026-03-10 13:07:59,980 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:07:59,982 - app - INFO - GET /benchmark - 200 - 2.506s
+2026-03-10 13:08:56,124 - app - INFO - Starting benchmark
+2026-03-10 13:08:59,236 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:08:59,238 - app - INFO - GET /benchmark - 200 - 3.114s
+2026-03-10 13:08:59,242 - app - INFO - Starting benchmark
+2026-03-10 13:09:02,100 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:09:02,102 - app - INFO - GET /benchmark - 200 - 2.860s
+2026-03-10 13:09:57,105 - app - INFO - Starting benchmark
+2026-03-10 13:10:00,201 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:10:00,203 - app - INFO - GET /benchmark - 200 - 3.098s
+2026-03-10 13:10:00,207 - app - INFO - Starting benchmark
+2026-03-10 13:10:03,118 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:10:03,119 - app - INFO - GET /benchmark - 200 - 2.913s
+2026-03-10 13:10:57,102 - app - INFO - Starting benchmark
+2026-03-10 13:11:00,213 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:11:00,215 - app - INFO - GET /benchmark - 200 - 3.114s
+2026-03-10 13:11:00,219 - app - INFO - Starting benchmark
+2026-03-10 13:11:03,211 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:11:03,212 - app - INFO - GET /benchmark - 200 - 2.993s
+2026-03-10 13:11:57,091 - app - INFO - Starting benchmark
+2026-03-10 13:11:59,396 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:11:59,398 - app - INFO - GET /benchmark - 200 - 2.307s
+2026-03-10 13:11:59,402 - app - INFO - Starting benchmark
+2026-03-10 13:12:02,189 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:12:02,191 - app - INFO - GET /benchmark - 200 - 2.789s
+2026-03-10 13:12:57,107 - app - INFO - Starting benchmark
+2026-03-10 13:12:59,399 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:12:59,401 - app - INFO - GET /benchmark - 200 - 2.294s
+2026-03-10 13:12:59,405 - app - INFO - Starting benchmark
+2026-03-10 13:13:01,965 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:13:01,967 - app - INFO - GET /benchmark - 200 - 2.562s
+2026-03-10 13:13:57,119 - app - INFO - Starting benchmark
+2026-03-10 13:13:59,932 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:13:59,934 - app - INFO - GET /benchmark - 200 - 2.815s
+2026-03-10 13:13:59,938 - app - INFO - Starting benchmark
+2026-03-10 13:14:02,983 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:14:02,985 - app - INFO - GET /benchmark - 200 - 3.047s
+2026-03-10 13:14:57,098 - app - INFO - Starting benchmark
+2026-03-10 13:15:00,086 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:15:00,088 - app - INFO - GET /benchmark - 200 - 2.991s
+2026-03-10 13:15:00,093 - app - INFO - Starting benchmark
+2026-03-10 13:15:03,070 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:15:03,071 - app - INFO - GET /benchmark - 200 - 2.979s
+2026-03-10 13:15:57,098 - app - INFO - Starting benchmark
+2026-03-10 13:16:00,138 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:16:00,140 - app - INFO - GET /benchmark - 200 - 3.042s
+2026-03-10 13:16:00,144 - app - INFO - Starting benchmark
+2026-03-10 13:16:03,121 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:16:03,122 - app - INFO - GET /benchmark - 200 - 2.978s
+2026-03-10 13:16:57,107 - app - INFO - Starting benchmark
+2026-03-10 13:16:59,338 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:16:59,340 - app - INFO - GET /benchmark - 200 - 2.233s
+2026-03-10 13:16:59,344 - app - INFO - Starting benchmark
+2026-03-10 13:17:02,150 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:17:02,152 - app - INFO - GET /benchmark - 200 - 2.808s
+2026-03-10 13:17:57,107 - app - INFO - Starting benchmark
+2026-03-10 13:17:59,401 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:17:59,403 - app - INFO - GET /benchmark - 200 - 2.297s
+2026-03-10 13:17:59,407 - app - INFO - Starting benchmark
+2026-03-10 13:18:01,737 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:18:01,739 - app - INFO - GET /benchmark - 200 - 2.332s
+2026-03-10 13:18:57,106 - app - INFO - Starting benchmark
+2026-03-10 13:19:00,128 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:19:00,130 - app - INFO - GET /benchmark - 200 - 3.024s
+2026-03-10 13:19:00,134 - app - INFO - Starting benchmark
+2026-03-10 13:19:03,134 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:19:03,136 - app - INFO - GET /benchmark - 200 - 3.002s
+2026-03-10 13:19:57,104 - app - INFO - Starting benchmark
+2026-03-10 13:20:00,150 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:20:00,152 - app - INFO - GET /benchmark - 200 - 3.049s
+2026-03-10 13:20:00,157 - app - INFO - Starting benchmark
+2026-03-10 13:20:03,092 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:20:03,094 - app - INFO - GET /benchmark - 200 - 2.938s
+2026-03-10 13:20:57,098 - app - INFO - Starting benchmark
+2026-03-10 13:21:00,019 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:21:00,021 - app - INFO - GET /benchmark - 200 - 2.924s
+2026-03-10 13:21:00,026 - app - INFO - Starting benchmark
+2026-03-10 13:21:02,971 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:21:02,972 - app - INFO - GET /benchmark - 200 - 2.947s
+2026-03-10 13:21:57,095 - app - INFO - Starting benchmark
+2026-03-10 13:21:59,486 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:21:59,488 - app - INFO - GET /benchmark - 200 - 2.394s
+2026-03-10 13:21:59,493 - app - INFO - Starting benchmark
+2026-03-10 13:22:02,158 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:22:02,160 - app - INFO - GET /benchmark - 200 - 2.668s
+2026-03-10 13:22:57,102 - app - INFO - Starting benchmark
+2026-03-10 13:22:59,332 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:22:59,334 - app - INFO - GET /benchmark - 200 - 2.233s
+2026-03-10 13:22:59,338 - app - INFO - Starting benchmark
+2026-03-10 13:23:01,688 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:23:01,689 - app - INFO - GET /benchmark - 200 - 2.351s
+2026-03-10 13:23:57,117 - app - INFO - Starting benchmark
+2026-03-10 13:23:59,882 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:23:59,884 - app - INFO - GET /benchmark - 200 - 2.767s
+2026-03-10 13:23:59,888 - app - INFO - Starting benchmark
+2026-03-10 13:24:02,733 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:24:02,734 - app - INFO - GET /benchmark - 200 - 2.846s
+2026-03-10 13:24:57,111 - app - INFO - Starting benchmark
+2026-03-10 13:25:00,197 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:25:00,198 - app - INFO - GET /benchmark - 200 - 3.087s
+2026-03-10 13:25:00,203 - app - INFO - Starting benchmark
+2026-03-10 13:25:03,232 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:25:03,234 - app - INFO - GET /benchmark - 200 - 3.031s
+2026-03-10 13:25:57,104 - app - INFO - Starting benchmark
+2026-03-10 13:26:00,235 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:26:00,237 - app - INFO - GET /benchmark - 200 - 3.133s
+2026-03-10 13:26:00,241 - app - INFO - Starting benchmark
+2026-03-10 13:26:03,438 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:26:03,439 - app - INFO - GET /benchmark - 200 - 3.199s
+2026-03-10 13:26:57,105 - app - INFO - Starting benchmark
+2026-03-10 13:26:59,472 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:26:59,474 - app - INFO - GET /benchmark - 200 - 2.369s
+2026-03-10 13:26:59,478 - app - INFO - Starting benchmark
+2026-03-10 13:27:02,389 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:27:02,390 - app - INFO - GET /benchmark - 200 - 2.912s
+2026-03-10 13:27:13,644 - app - INFO - Starting benchmark
+2026-03-10 13:27:15,027 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:27:15,028 - app - INFO - GET /benchmark - 200 - 1.384s
+2026-03-10 13:27:31,781 - app - INFO - Starting benchmark
+2026-03-10 13:27:32,897 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:27:32,898 - app - INFO - GET /benchmark - 200 - 1.117s
+2026-03-10 13:27:57,088 - app - INFO - Starting benchmark
+2026-03-10 13:27:58,169 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:27:58,170 - app - INFO - GET /benchmark - 200 - 1.082s
+2026-03-10 13:28:01,796 - app - INFO - Starting benchmark
+2026-03-10 13:28:02,951 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:28:02,952 - app - INFO - GET /benchmark - 200 - 1.157s
+2026-03-10 13:28:56,795 - app - INFO - Starting benchmark
+2026-03-10 13:28:57,910 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:28:57,911 - app - INFO - GET /benchmark - 200 - 1.116s
+2026-03-10 13:28:57,915 - app - INFO - Starting benchmark
+2026-03-10 13:28:59,074 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:28:59,075 - app - INFO - GET /benchmark - 200 - 1.160s
+2026-03-10 13:29:57,111 - app - INFO - Starting benchmark
+2026-03-10 13:29:58,188 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:29:58,189 - app - INFO - GET /benchmark - 200 - 1.079s
+2026-03-10 13:29:58,192 - app - INFO - Starting benchmark
+2026-03-10 13:29:59,334 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:29:59,335 - app - INFO - GET /benchmark - 200 - 1.144s
+2026-03-10 13:30:57,103 - app - INFO - Starting benchmark
+2026-03-10 13:30:58,215 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:30:58,216 - app - INFO - GET /benchmark - 200 - 1.114s
+2026-03-10 13:30:58,219 - app - INFO - Starting benchmark
+2026-03-10 13:30:59,484 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:30:59,485 - app - INFO - GET /benchmark - 200 - 1.266s
+2026-03-10 13:31:57,089 - app - INFO - Starting benchmark
+2026-03-10 13:31:58,176 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:31:58,177 - app - INFO - GET /benchmark - 200 - 1.088s
+2026-03-10 13:31:58,180 - app - INFO - Starting benchmark
+2026-03-10 13:31:59,316 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:31:59,317 - app - INFO - GET /benchmark - 200 - 1.137s
+2026-03-10 13:32:33,223 - app - INFO - Starting benchmark
+2026-03-10 13:32:34,576 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:32:34,577 - app - INFO - GET /benchmark - 200 - 1.355s
+2026-03-10 13:32:43,978 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 13:32:43,985 - app - INFO - Multiplication request: len(A)=5, len(B)=5
+2026-03-10 13:32:43,987 - app - INFO - Multiplication completed: Karatsuba (n=5 < 64) - 0.51ms
+2026-03-10 13:32:43,988 - app - INFO - POST /multiply - 200 - 0.006s
+2026-03-10 13:32:57,101 - app - INFO - Starting benchmark
+2026-03-10 13:32:58,339 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:32:58,340 - app - INFO - GET /benchmark - 200 - 1.239s
+2026-03-10 13:33:56,803 - app - INFO - Starting benchmark
+2026-03-10 13:33:58,067 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:33:58,068 - app - INFO - GET /benchmark - 200 - 1.265s
+2026-03-10 13:34:57,108 - app - INFO - Starting benchmark
+2026-03-10 13:34:58,425 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:34:58,426 - app - INFO - GET /benchmark - 200 - 1.318s
+2026-03-10 13:35:57,097 - app - INFO - Starting benchmark
+2026-03-10 13:35:58,653 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:35:58,655 - app - INFO - GET /benchmark - 200 - 1.559s
+2026-03-10 13:36:21,995 - app - INFO - Starting benchmark
+2026-03-10 13:36:23,494 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:36:23,496 - app - INFO - GET /benchmark - 200 - 1.501s
+2026-03-10 13:36:32,157 - app - INFO - Starting benchmark
+2026-03-10 13:36:33,758 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:36:33,759 - app - INFO - GET /benchmark - 200 - 1.602s
+2026-03-10 13:37:01,782 - app - INFO - Starting benchmark
+2026-03-10 13:37:03,014 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:37:03,015 - app - INFO - GET /benchmark - 200 - 1.233s
+2026-03-10 13:37:57,092 - app - INFO - Starting benchmark
+2026-03-10 13:37:58,267 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:37:58,269 - app - INFO - GET /benchmark - 200 - 1.178s
+2026-03-10 13:38:46,775 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 13:38:46,795 - app - INFO - Multiplication request: len(A)=10, len(B)=10
+2026-03-10 13:38:46,798 - app - INFO - Multiplication completed: Karatsuba (n=10 < 64) - 0.85ms
+2026-03-10 13:38:46,800 - app - INFO - POST /multiply - 200 - 0.006s
+2026-03-10 13:38:57,089 - app - INFO - Starting benchmark
+2026-03-10 13:38:58,475 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:38:58,476 - app - INFO - GET /benchmark - 200 - 1.388s
+2026-03-10 13:39:56,802 - app - INFO - Starting benchmark
+2026-03-10 13:39:58,034 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:39:58,035 - app - INFO - GET /benchmark - 200 - 1.233s
+2026-03-10 13:40:57,110 - app - INFO - Starting benchmark
+2026-03-10 13:40:58,428 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:40:58,429 - app - INFO - GET /benchmark - 200 - 1.320s
+2026-03-10 13:41:56,792 - app - INFO - Starting benchmark
+2026-03-10 13:41:58,086 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:41:58,087 - app - INFO - GET /benchmark - 200 - 1.296s
+2026-03-10 13:42:57,111 - app - INFO - Starting benchmark
+2026-03-10 13:42:58,443 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:42:58,444 - app - INFO - GET /benchmark - 200 - 1.333s
+2026-03-10 13:43:38,998 - app - INFO - Starting benchmark
+2026-03-10 13:43:40,385 - app - INFO - Benchmark completed: 7 sizes tested
+2026-03-10 13:43:40,386 - app - INFO - GET /benchmark - 200 - 1.389s
+2026-03-10 13:43:54,906 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 13:43:54,913 - app - INFO - Multiplication request: len(A)=64, len(B)=64
+2026-03-10 13:43:54,916 - app - INFO - Multiplication completed: Toom-Cook (64 <= n=64 < 256) - 2.54ms
+2026-03-10 13:43:54,917 - app - INFO - POST /multiply - 200 - 0.006s
+2026-03-10 13:45:17,019 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 13:45:17,026 - app - INFO - Multiplication request: len(A)=256, len(B)=256
+2026-03-10 13:45:17,040 - app - INFO - Multiplication completed: NTT (n=256 >= 256) - 12.73ms
+2026-03-10 13:45:17,041 - app - INFO - POST /multiply - 200 - 0.017s
+2026-03-10 13:54:06,107 - app - INFO - OPTIONS /multiply - 200 - 0.001s
+2026-03-10 13:54:06,122 - app - INFO - Multiplication request: len(A)=4, len(B)=4
+2026-03-10 13:54:06,123 - app - INFO - Multiplication completed: Karatsuba (n=4 < 64) - 0.75ms
+2026-03-10 13:54:06,126 - app - INFO - POST /multiply - 200 - 0.006s
+2026-03-10 13:54:13,342 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 13:54:13,347 - app - INFO - Multiplication request: len(A)=8, len(B)=8
+2026-03-10 13:54:13,348 - app - INFO - Multiplication completed: Karatsuba (n=8 < 64) - 0.47ms
+2026-03-10 13:54:13,349 - app - INFO - POST /multiply - 200 - 0.003s
+2026-03-10 13:54:14,966 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 13:54:14,974 - app - INFO - Multiplication request: len(A)=16, len(B)=16
+2026-03-10 13:54:14,975 - app - INFO - Multiplication completed: Karatsuba (n=16 < 64) - 0.96ms
+2026-03-10 13:54:14,977 - app - INFO - POST /multiply - 200 - 0.004s
+2026-03-10 13:54:16,048 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 13:54:16,051 - app - INFO - Multiplication request: len(A)=32, len(B)=32
+2026-03-10 13:54:16,054 - app - INFO - Multiplication completed: Karatsuba (n=32 < 64) - 1.46ms
+2026-03-10 13:54:16,055 - app - INFO - POST /multiply - 200 - 0.004s
+2026-03-10 13:54:16,942 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 13:54:16,947 - app - INFO - Multiplication request: len(A)=64, len(B)=64
+2026-03-10 13:54:16,950 - app - INFO - Multiplication completed: Toom-Cook (64 <= n=64 < 256) - 2.19ms
+2026-03-10 13:54:16,951 - app - INFO - POST /multiply - 200 - 0.004s
+2026-03-10 13:54:21,633 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 13:54:21,642 - app - INFO - Multiplication request: len(A)=32, len(B)=32
+2026-03-10 13:54:21,645 - app - INFO - Multiplication completed: Karatsuba (n=32 < 64) - 1.92ms
+2026-03-10 13:54:21,647 - app - INFO - POST /multiply - 200 - 0.006s
+2026-03-10 13:54:23,162 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 13:54:23,172 - app - INFO - Multiplication request: len(A)=16, len(B)=16
+2026-03-10 13:54:23,176 - app - INFO - Multiplication completed: Karatsuba (n=16 < 64) - 1.84ms
+2026-03-10 13:54:23,178 - app - INFO - POST /multiply - 200 - 0.009s
+2026-03-10 13:54:24,375 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 13:54:24,379 - app - INFO - Multiplication request: len(A)=8, len(B)=8
+2026-03-10 13:54:24,380 - app - INFO - Multiplication completed: Karatsuba (n=8 < 64) - 0.31ms
+2026-03-10 13:54:24,381 - app - INFO - POST /multiply - 200 - 0.002s
+2026-03-10 13:54:25,360 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 13:54:25,365 - app - INFO - Multiplication request: len(A)=4, len(B)=4
+2026-03-10 13:54:25,366 - app - INFO - Multiplication completed: Karatsuba (n=4 < 64) - 0.36ms
+2026-03-10 13:54:25,368 - app - INFO - POST /multiply - 200 - 0.003s
+2026-03-10 13:54:27,357 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 13:54:27,362 - app - INFO - Multiplication request: len(A)=8, len(B)=8
+2026-03-10 13:54:27,363 - app - INFO - Multiplication completed: Karatsuba (n=8 < 64) - 0.38ms
+2026-03-10 13:54:27,364 - app - INFO - POST /multiply - 200 - 0.003s
+2026-03-10 13:54:28,676 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 13:54:28,682 - app - INFO - Multiplication request: len(A)=16, len(B)=16
+2026-03-10 13:54:28,683 - app - INFO - Multiplication completed: Karatsuba (n=16 < 64) - 0.67ms
+2026-03-10 13:54:28,684 - app - INFO - POST /multiply - 200 - 0.003s
+2026-03-10 13:54:36,019 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 13:54:36,025 - app - INFO - Multiplication request: len(A)=32, len(B)=32
+2026-03-10 13:54:36,027 - app - INFO - Multiplication completed: Karatsuba (n=32 < 64) - 1.24ms
+2026-03-10 13:54:36,028 - app - INFO - POST /multiply - 200 - 0.004s
+2026-03-10 13:54:37,793 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 13:54:37,803 - app - INFO - Multiplication request: len(A)=16, len(B)=16
+2026-03-10 13:54:37,805 - app - INFO - Multiplication completed: Karatsuba (n=16 < 64) - 0.90ms
+2026-03-10 13:54:37,807 - app - INFO - POST /multiply - 200 - 0.006s
+2026-03-10 13:54:39,277 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 13:54:39,287 - app - INFO - Multiplication request: len(A)=8, len(B)=8
+2026-03-10 13:54:39,289 - app - INFO - Multiplication completed: Karatsuba (n=8 < 64) - 0.90ms
+2026-03-10 13:54:39,291 - app - INFO - POST /multiply - 200 - 0.006s
+2026-03-10 13:54:40,506 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 13:54:40,511 - app - INFO - Multiplication request: len(A)=4, len(B)=4
+2026-03-10 13:54:40,512 - app - INFO - Multiplication completed: Karatsuba (n=4 < 64) - 0.49ms
+2026-03-10 13:54:40,513 - app - INFO - POST /multiply - 200 - 0.003s
+2026-03-10 13:54:42,207 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 13:54:42,212 - app - INFO - Multiplication request: len(A)=64, len(B)=64
+2026-03-10 13:54:42,214 - app - INFO - Multiplication completed: Toom-Cook (64 <= n=64 < 256) - 1.99ms
+2026-03-10 13:54:42,215 - app - INFO - POST /multiply - 200 - 0.004s
+2026-03-10 14:01:28,389 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 14:01:28,397 - app - INFO - Multiplication request: len(A)=4, len(B)=4
+2026-03-10 14:01:28,398 - app - INFO - Multiplication completed: Karatsuba (n=4 < 64) - 0.59ms
+2026-03-10 14:01:28,400 - app - INFO - POST /multiply - 200 - 0.006s
+2026-03-10 14:06:29,933 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 14:06:29,940 - app - INFO - Multiplication request: len(A)=64, len(B)=64
+2026-03-10 14:06:29,942 - app - INFO - Multiplication completed: Toom-Cook (64 <= n=64 < 256) - 2.18ms
+2026-03-10 14:06:29,943 - app - INFO - POST /multiply - 200 - 0.005s
+2026-03-10 14:10:35,637 - app - INFO - OPTIONS /multiply - 200 - 0.001s
+2026-03-10 14:10:35,645 - app - INFO - Multiplication request: len(A)=1, len(B)=1
+2026-03-10 14:10:35,646 - app - INFO - Multiplication completed: Karatsuba (n=1 < 64) - 0.47ms
+2026-03-10 14:10:35,647 - app - INFO - POST /multiply - 200 - 0.004s
+2026-03-10 14:11:06,580 - app - INFO - OPTIONS /multiply - 200 - 0.001s
+2026-03-10 14:11:06,592 - app - INFO - Multiplication request: len(A)=1, len(B)=1
+2026-03-10 14:11:06,593 - app - INFO - Multiplication completed: Karatsuba (n=1 < 64) - 0.44ms
+2026-03-10 14:11:06,594 - app - INFO - POST /multiply - 200 - 0.003s
+2026-03-10 14:12:06,492 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 14:12:06,497 - app - INFO - Multiplication request: len(A)=1, len(B)=1
+2026-03-10 14:12:06,498 - app - INFO - Multiplication completed: Karatsuba (n=1 < 64) - 0.37ms
+2026-03-10 14:12:06,499 - app - INFO - POST /multiply - 200 - 0.003s
+2026-03-10 14:12:27,246 - app - INFO - OPTIONS /multiply - 200 - 0.002s
+2026-03-10 14:12:27,251 - app - INFO - OPTIONS /multiply - 200 - 0.006s
+2026-03-10 14:12:27,264 - app - INFO - Multiplication request: len(A)=1, len(B)=1
+2026-03-10 14:12:27,268 - app - INFO - Multiplication completed: Karatsuba (n=1 < 64) - 2.13ms
+2026-03-10 14:12:27,273 - app - INFO - POST /multiply - 200 - 0.012s
+2026-03-10 14:12:27,281 - app - INFO - Multiplication request: len(A)=1, len(B)=1
+2026-03-10 14:12:27,282 - app - INFO - Multiplication completed: Karatsuba (n=1 < 64) - 0.66ms
+2026-03-10 14:12:27,284 - app - INFO - POST /multiply - 200 - 0.007s
+2026-03-10 14:12:40,376 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 14:12:40,380 - app - INFO - Multiplication request: len(A)=1, len(B)=1
+2026-03-10 14:12:40,381 - app - INFO - Multiplication completed: Karatsuba (n=1 < 64) - 0.34ms
+2026-03-10 14:12:40,382 - app - INFO - POST /multiply - 200 - 0.002s
+2026-03-10 14:30:14,002 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 14:30:14,012 - app - INFO - Multiplication request: len(A)=16, len(B)=16
+2026-03-10 14:30:14,014 - app - INFO - Multiplication completed: Karatsuba (n=16 < 64) - 0.83ms
+2026-03-10 14:30:14,015 - app - INFO - POST /multiply - 200 - 0.006s
+2026-03-10 14:30:26,614 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 14:30:26,619 - app - INFO - Multiplication request: len(A)=11, len(B)=11
+2026-03-10 14:30:26,620 - app - INFO - Multiplication completed: Karatsuba (n=11 < 64) - 0.50ms
+2026-03-10 14:30:26,621 - app - INFO - POST /multiply - 200 - 0.003s
+2026-03-10 14:30:29,633 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 14:30:29,638 - app - INFO - Multiplication request: len(A)=7, len(B)=7
+2026-03-10 14:30:29,639 - app - INFO - Multiplication completed: Karatsuba (n=7 < 64) - 0.42ms
+2026-03-10 14:30:29,640 - app - INFO - POST /multiply - 200 - 0.002s
+2026-03-10 14:32:40,096 - app - INFO - OPTIONS /multiply - 200 - 0.001s
+2026-03-10 14:32:40,108 - app - INFO - Multiplication request: len(A)=8, len(B)=8
+2026-03-10 14:32:40,110 - app - INFO - Multiplication completed: Karatsuba (n=8 < 64) - 0.84ms
+2026-03-10 14:32:40,111 - app - INFO - POST /multiply - 200 - 0.005s
+2026-03-10 14:33:32,729 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 14:33:32,733 - app - INFO - Multiplication request: len(A)=128, len(B)=128
+2026-03-10 14:33:32,737 - app - INFO - Multiplication completed: Toom-Cook (64 <= n=128 < 256) - 3.34ms
+2026-03-10 14:33:32,738 - app - INFO - POST /multiply - 200 - 0.006s
+2026-03-10 14:33:44,637 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 14:33:44,646 - app - INFO - Multiplication request: len(A)=256, len(B)=256
+2026-03-10 14:33:44,665 - app - INFO - Multiplication completed: NTT (n=256 >= 256) - 17.87ms
+2026-03-10 14:33:44,666 - app - INFO - POST /multiply - 200 - 0.022s
+2026-03-10 14:34:04,092 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 14:34:04,096 - app - INFO - Multiplication request: len(A)=5, len(B)=5
+2026-03-10 14:34:04,097 - app - INFO - Multiplication completed: Karatsuba (n=5 < 64) - 0.30ms
+2026-03-10 14:34:04,097 - app - INFO - POST /multiply - 200 - 0.002s
+2026-03-10 14:34:53,368 - app - INFO - OPTIONS /multiply - 200 - 0.001s
+2026-03-10 14:34:53,381 - app - INFO - Multiplication request: len(A)=76, len(B)=76
+2026-03-10 14:34:53,386 - app - INFO - Multiplication completed: Toom-Cook (64 <= n=76 < 256) - 3.42ms
+2026-03-10 14:34:53,389 - app - INFO - POST /multiply - 200 - 0.010s
+2026-03-10 14:35:04,223 - app - INFO - OPTIONS /multiply - 200 - 0.001s
+2026-03-10 14:35:04,238 - app - INFO - Multiplication request: len(A)=216, len(B)=216
+2026-03-10 14:35:04,271 - app - INFO - Multiplication completed: Toom-Cook (64 <= n=216 < 256) - 30.98ms
+2026-03-10 14:35:04,290 - app - INFO - POST /multiply - 200 - 0.056s
+2026-03-10 14:35:21,719 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 14:35:21,724 - app - INFO - Multiplication request: len(A)=648, len(B)=648
+2026-03-10 14:35:21,943 - app - INFO - Multiplication completed: NTT (n=648 >= 256) - 218.21ms
+2026-03-10 14:35:21,944 - app - INFO - POST /multiply - 200 - 0.220s
+2026-03-10 14:35:33,479 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 14:35:33,493 - app - INFO - Multiplication request: len(A)=216, len(B)=216
+2026-03-10 14:35:33,513 - app - INFO - Multiplication completed: Toom-Cook (64 <= n=216 < 256) - 19.72ms
+2026-03-10 14:35:33,514 - app - INFO - POST /multiply - 200 - 0.026s
+2026-03-10 14:35:40,651 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 14:35:40,657 - app - INFO - Multiplication request: len(A)=236, len(B)=236
+2026-03-10 14:35:40,680 - app - INFO - Multiplication completed: Toom-Cook (64 <= n=236 < 256) - 22.92ms
+2026-03-10 14:35:40,681 - app - INFO - POST /multiply - 200 - 0.026s
+2026-03-10 14:35:44,223 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 14:35:44,229 - app - INFO - Multiplication request: len(A)=432, len(B)=432
+2026-03-10 14:35:44,256 - app - INFO - Multiplication completed: NTT (n=432 >= 256) - 27.14ms
+2026-03-10 14:35:44,257 - app - INFO - POST /multiply - 200 - 0.029s
+2026-03-10 16:03:36,773 - app - INFO - OPTIONS /multiply - 200 - 0.001s
+2026-03-10 16:03:36,812 - app - INFO - Multiplication request: len(A)=553, len(B)=553
+2026-03-10 16:03:36,983 - app - INFO - Multiplication completed: NTT (n=553 >= 256) - 169.28ms
+2026-03-10 16:03:36,984 - app - INFO - POST /multiply - 200 - 0.178s
+2026-03-10 16:03:58,489 - app - INFO - OPTIONS /multiply - 200 - 0.001s
+2026-03-10 16:03:58,505 - app - INFO - Multiplication request: len(A)=436, len(B)=436
+2026-03-10 16:03:58,562 - app - INFO - Multiplication completed: NTT (n=436 >= 256) - 55.70ms
+2026-03-10 16:03:58,564 - app - INFO - POST /multiply - 200 - 0.063s
+2026-03-10 16:04:07,237 - app - INFO - OPTIONS /multiply - 200 - 0.001s
+2026-03-10 16:04:07,262 - app - INFO - Multiplication request: len(A)=31, len(B)=31
+2026-03-10 16:04:07,268 - app - INFO - Multiplication completed: Karatsuba (n=31 < 64) - 4.81ms
+2026-03-10 16:04:07,271 - app - INFO - POST /multiply - 200 - 0.011s
+2026-03-10 16:04:11,079 - app - INFO - OPTIONS /multiply - 200 - 0.001s
+2026-03-10 16:04:11,093 - app - INFO - Multiplication request: len(A)=1, len(B)=1
+2026-03-10 16:04:11,095 - app - INFO - Multiplication completed: Karatsuba (n=1 < 64) - 0.88ms
+2026-03-10 16:04:11,097 - app - INFO - POST /multiply - 200 - 0.006s
+2026-03-10 16:53:32,053 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 16:53:32,060 - app - INFO - Multiplication request: len(A)=11, len(B)=11
+2026-03-10 16:53:32,061 - app - INFO - Multiplication completed: Karatsuba (n=11 < 64) - 0.83ms
+2026-03-10 16:53:32,062 - app - INFO - POST /multiply - 200 - 0.003s
+2026-03-10 16:53:51,559 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-10 16:53:51,572 - app - INFO - Multiplication request: len(A)=620, len(B)=620
+2026-03-10 16:53:51,846 - app - INFO - Multiplication completed: NTT (n=620 >= 256) - 273.44ms
+2026-03-10 16:53:51,847 - app - INFO - POST /multiply - 200 - 0.277s
+2026-03-18 17:02:52,385 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-18 17:02:52,402 - app - INFO - Multiplication request: len(A)=8, len(B)=8
+2026-03-18 17:02:52,419 - app - INFO - Multiplication completed: Karatsuba (n=8 < 64) - 16.91ms
+2026-03-18 17:02:52,419 - app - INFO - POST /multiply - 200 - 0.017s
+2026-03-18 17:03:02,012 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-18 17:03:02,112 - app - INFO - Multiplication request: len(A)=8, len(B)=8
+2026-03-18 17:03:02,112 - app - INFO - Multiplication completed: Karatsuba (n=8 < 64) - 0.00ms
+2026-03-18 17:03:02,112 - app - INFO - POST /multiply - 200 - 0.000s
+2026-03-18 17:03:29,445 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-18 17:03:29,482 - app - INFO - Multiplication request: len(A)=181, len(B)=181
+2026-03-18 17:03:29,489 - app - INFO - Multiplication completed: Toom-Cook (64 <= n=181 < 256) - 6.98ms
+2026-03-18 17:03:29,490 - app - INFO - POST /multiply - 200 - 0.016s
+2026-03-18 17:08:20,426 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-18 17:08:20,464 - app - INFO - Multiplication request: len(A)=25, len(B)=25
+2026-03-18 17:08:20,464 - app - INFO - Multiplication completed: Karatsuba (n=25 < 64) - 0.00ms
+2026-03-18 17:08:20,464 - app - INFO - POST /multiply - 200 - 0.002s
+2026-03-20 12:41:03,252 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-20 12:41:03,299 - app - INFO - Multiplication request: len(A)=1, len(B)=1
+2026-03-20 12:41:03,302 - app - INFO - Multiplication completed: Karatsuba (n=1 < 64) - 1.49ms
+2026-03-20 12:41:03,303 - app - INFO - POST /multiply - 200 - 0.021s
+2026-03-20 12:42:52,534 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-20 12:42:52,578 - app - INFO - Multiplication request: len(A)=1, len(B)=1
+2026-03-20 12:42:52,578 - app - INFO - Multiplication completed: Karatsuba (n=1 < 64) - 0.00ms
+2026-03-20 12:42:52,578 - app - INFO - POST /multiply - 200 - 0.015s
+2026-03-20 12:47:44,714 - app - INFO - OPTIONS /multiply - 200 - 0.000s
+2026-03-20 12:47:44,730 - app - INFO - POST /multiply - 422 - 0.000s
+2026-03-20 12:48:12,329 - app - INFO - OPTIONS /multiply - 200 - 0.001s
+2026-03-20 12:48:12,347 - app - INFO - Multiplication request: len(A)=83, len(B)=83
+2026-03-20 12:48:12,358 - app - INFO - Multiplication completed: Toom-Cook (64 <= n=83 < 256) - 11.12ms
+2026-03-20 12:48:12,358 - app - INFO - POST /multiply - 200 - 0.011s

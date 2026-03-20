@@ -1,0 +1,8 @@
+# Python 3.14 compatible versions
+fastapi==0.115.12
+uvicorn==0.34.0
+numpy==2.2.4
+pydantic==2.11.3
+python-multipart==0.0.20
+cors==1.0.1
+matplotlib==3.10.1
